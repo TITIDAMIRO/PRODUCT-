@@ -1,0 +1,6 @@
+# PRODUCT-
+//PUT YOUR MIXPANEL TOKEN AND SECRET BELOW:
+const credentials = {
+    "token": "309c13966944677440d54b0797586384",
+    "secret": "bb7091441c56db7a979b8c102392efa9"
+}
